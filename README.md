@@ -11,7 +11,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Song Chang"
         self.role = "Software Engineer"
         self.language_spoken = ["zh_CN", "en_US"]
 
