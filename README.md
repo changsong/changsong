@@ -23,21 +23,24 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
+**Hi, I'm Song Chang, a Senior Technical Architect with 10+ years' expertise designing and developing robust, high-scale distributed systems.**
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+**Core Strengths:**
+*   **Java Architecture & Full-Stack Development**
+*   Optimizing **high-QPS platforms** (solving OOM, Elasticsearch bottlenecks)
+*   Leading technical teams & establishing standards (RPC, SSO, Workflow)
+*   End-to-end project ownership (analysis, design, stress testing, deployment)
 
-### 📔 Latest Blog posts
+**Key Technologies:**
+`Kafka` | `Zookeeper` | `ElasticJob` | `Canal` | `Hadoop/HBase` | `TiDB` | `MongoDB` | `MySQL` | `Elasticsearch` | `Quartz` | `SpringMVC` | `Qt` | `WebSocket`
 
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
+**Proven Capabilities:**
+*   Built systems handling **millions of orders** (Procurement System, OFC).
+*   Processed **real-time data streams** (200k+ door lock events, telecom CDR platforms).
+*   Architected databases & clusters storing **10M+ orders & 100M+ logs**.
+*   Managed infrastructure (K8s, Docker) for **high availability & low failure rates**.
+
+**I leverage deep technical knowledge and leadership to deliver scalable, reliable systems that drive business growth and innovation.**
 
 ## 🔧 Technologies & Tools
 
