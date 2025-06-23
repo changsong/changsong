@@ -8,6 +8,7 @@
 
 **Core Strengths:**
 *   **Java Architecture & Full-Stack Development**
+*   **Rust Development**
 *   Optimizing **high-QPS platforms** (solving OOM, Elasticsearch bottlenecks)
 *   Leading technical teams & establishing standards (RPC, SSO, Workflow)
 *   End-to-end project ownership (analysis, design, stress testing, deployment)
