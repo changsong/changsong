@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-**Hi, I'm Song Chang, a Senior Technical Architect with 10+ years' expertise designing and developing robust, high-scale distributed systems.**
+**Hi, I'm Song Chang, a Senior Technical Architect with 20+ years' expertise designing and developing robust, high-scale distributed systems.**
 
 **Core Strengths:**
 *   **Java Architecture & Full-Stack Development**
