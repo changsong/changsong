@@ -3,25 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Song Chang"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
 
 **Hi, I'm Song Chang, a Senior Technical Architect with 10+ years' expertise designing and developing robust, high-scale distributed systems.**
 
@@ -34,8 +15,32 @@ me.say_hi()
 **Key Technologies:**
 `Kafka` | `Zookeeper` | `ElasticJob` | `Canal` | `Hadoop/HBase` | `TiDB` | `MongoDB` | `MySQL` | `Elasticsearch` | `Quartz` | `SpringMVC` | `Qt` | `WebSocket`
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-chang-7a6b6967)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qianjinfu@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/changso)
+
+
 **Proven Capabilities:**
-*   Built systems handling **millions of orders** (Procurement System, OFC).
+*   Built systems handling **millions of orders** (Procurement System).
 *   Processed **real-time data streams** (200k+ door lock events, telecom CDR platforms).
 *   Architected databases & clusters storing **10M+ orders & 100M+ logs**.
 *   Managed infrastructure (K8s, Docker) for **high availability & low failure rates**.
@@ -62,11 +67,9 @@ me.say_hi()
 ![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
-
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
 
 **Tools and Services:**
